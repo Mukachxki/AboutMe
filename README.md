@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me fb
 - 😄 Pronouns: him
-- ⚡ Fun fact: lazy
+- ⚡ Fun fact: if all u see is red it means its time to sleep
 
 <!---
 Mukachxki/Mukachxki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
